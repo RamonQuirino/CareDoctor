@@ -10,8 +10,6 @@ namespace CareDoctor.Domain.BLL
     {
         public Repository.Usuario Authenticate(string login, string password)
         {
-
-
             var usuario = _ctx.Usuario.Where(u => u.ID == 1).FirstOrDefault();
             return usuario;
 

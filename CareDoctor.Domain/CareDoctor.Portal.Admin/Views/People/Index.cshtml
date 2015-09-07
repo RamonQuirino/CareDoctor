@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<div @*ng-app="CareDoctorApp"*@ class="row">
+    <div ng-controller="PeopleController">
+        <p>
+            Ramon mensagem {{helloAngular}}
+        </p>
+    </div>
+</div>
+@section scripts{
+    <script src="~/Content/Scripts/People/index.js"></script>
+}
+
+ 
