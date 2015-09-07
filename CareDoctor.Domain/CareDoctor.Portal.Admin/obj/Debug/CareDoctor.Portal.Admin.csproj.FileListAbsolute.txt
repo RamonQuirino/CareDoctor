@@ -24,3 +24,9 @@ D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\System.Web.WebPages.
 D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\System.Web.WebPages.Razor.xml
 D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\obj\Debug\CareDoctor.Portal.Admin.dll
 D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\obj\Debug\CareDoctor.Portal.Admin.pdb
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\System.Net.Http.Formatting.dll
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\System.Web.Http.dll
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\System.Web.Http.WebHost.dll
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\System.Net.Http.Formatting.xml
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\System.Web.Http.xml
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\System.Web.Http.WebHost.xml
