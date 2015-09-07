@@ -19,6 +19,7 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Area Restrita <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li>@Html.ActionLink("Entrar", "Index", "Authentication")</li>                            
+                            <li>@Html.ActionLink("Cadastro", "Index", "People")</li>   
                             <li role="separator" class="divider"></li>
                             <li><a href="#">Empresa</a></li>
                         </ul>
@@ -40,7 +41,8 @@
 
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
-    @RenderSection("scripts", required: false)
-    <script src="http://code.angularjs.org/1.0.1/angular-1.0.1.min.js"></script>
+    @Scripts.Render("~/bundles/angular")
+    @RenderSection("scripts", required: false)    
+    
 </body>
 </html>
