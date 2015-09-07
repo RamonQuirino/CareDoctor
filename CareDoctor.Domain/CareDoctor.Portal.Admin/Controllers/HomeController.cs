@@ -11,6 +11,7 @@ namespace CareDoctor.Portal.Admin.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            //var clienteView = Mapper.Map<CareDoctor.Domain.Repository.Usuario,  >(cliente);
             return View();
         }
     }

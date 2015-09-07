@@ -30,3 +30,7 @@ D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\System.Web.Http.WebH
 D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\System.Net.Http.Formatting.xml
 D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\System.Web.Http.xml
 D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\System.Web.Http.WebHost.xml
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\CareDoctor.Domain.dll
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\EntityFramework.dll
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\CareDoctor.Domain.pdb
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Portal.Admin\bin\EntityFramework.xml
