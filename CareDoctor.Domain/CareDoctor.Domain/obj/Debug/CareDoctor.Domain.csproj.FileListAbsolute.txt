@@ -1,0 +1,14 @@
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\bin\Debug\CareDoctor.Domain.dll.config
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\bin\Debug\CareDoctor.Domain.dll
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\bin\Debug\CareDoctor.Domain.pdb
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\bin\Debug\EntityFramework.dll
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\bin\Debug\EntityFramework.xml
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\obj\Debug\CareDoctor.Domain.dll
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\obj\Debug\CareDoctor.Domain.pdb
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\obj\Debug\CareDoctor.Domain.csprojResolveAssemblyReference.cache
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\obj\Debug\CareDoctor.Domain.Migrations.InitialCreate.resources
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\obj\Debug\CareDoctor.Domain.csproj.GenerateResource.Cache
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\obj\Debug\CareDoctor.Domain.Migrations.TesteMigration.resources
+D:\CareDoctor\CareDoctor.Domain\CareDoctor.Domain\obj\Debug\CareDoctor.Domain.Migrations.Teste2Migration.resources
